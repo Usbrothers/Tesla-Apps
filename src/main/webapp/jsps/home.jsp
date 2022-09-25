@@ -10,9 +10,9 @@
 </head>
 <body>
 <h1 align="center">Landmark Technology - Leaders in Software Delivery and DevOps Automation</h1>
-<h2 align="center"> Welcome to Landmark Technology.......We have a demo on DevOps E Degree with Linux and AWS  on Sunday Oct 9, 2022 at 4PM EST for our new batch. 
-	Landmark Technology Tesla web application project2b. Landmark Technology is also an ideal online training platform for DevOps and Cloud Infrastructures.
-	</h1>
+<h2 align="center"> Welcome to Landmark Technology.......We have a demo on DevOps E Degree with Linux and AWS  on Sunday Oct 9, 2022 at 3PM EST for our new batch. 
+	Landmark Technology Tesla web application project2. Landmark Technology is also an ideal online training platform for DevOps and Cloud Infrastructures.
+	</h2>
 	<h2 align="center" >DevOps is good. JESUS IS LORD. I AM BLESSED. Production</h2>
 <hr>
 <div style="text-align: center;">
